@@ -1,0 +1,4 @@
+countingword:   reads each file, stores the information of the file (totalwords, nextfile)
+checks if we have a word
+
+checkfreq: stores into a new structure totalword info, 

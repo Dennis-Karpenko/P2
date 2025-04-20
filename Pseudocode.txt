@@ -1,0 +1,17 @@
+while(globalist.word != NULL){
+    if(strcmp ( gloablist.word , bufferword) == 1){
+        globalist.count++;
+        return;
+    }
+    globalist = globalist.next;
+}
+if here, we iterated through the whole list, didn't find the word
+
+ronaldo list temp = global list;
+
+struct newWord;
+newWord.word = our new word;
+neword.count = 1;
+neword.next = temp.next;
+
+
